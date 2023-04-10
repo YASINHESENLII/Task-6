@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\obj\Debug\net6.0\Task6Record.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\obj\Debug\net6.0\Task6Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\obj\Debug\net6.0\Task6Record.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\obj\Debug\net6.0\Task6Record.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\obj\Debug\net6.0\Task6Record.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\bin\Debug\net6.0\Task6Record.exe
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\bin\Debug\net6.0\Task6Record.deps.json
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\bin\Debug\net6.0\Task6Record.runtimeconfig.json
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\bin\Debug\net6.0\Task6Record.dll
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\bin\Debug\net6.0\Task6Record.pdb
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\obj\Debug\net6.0\Task6Record.dll
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\obj\Debug\net6.0\refint\Task6Record.dll
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\obj\Debug\net6.0\Task6Record.pdb
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\obj\Debug\net6.0\Task6Record.genruntimeconfig.cache
+C:\Users\Asus\Documents\C#AB103\Task6Record\Task6Record\obj\Debug\net6.0\ref\Task6Record.dll
